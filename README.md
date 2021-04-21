@@ -1,6 +1,7 @@
-# travel_app1
+# Travel App
 
 A new Flutter project.
+UI Kits by Pixel.BuildWith Angga (https://pixel.buildwithangga.com/details/travel-app-mobile)
 
 ## Getting Started
 
