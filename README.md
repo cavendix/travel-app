@@ -5,10 +5,14 @@ UI Kits by [Pixel.BuildWith Angga](https://pixel.buildwithangga.com/details/trav
 
 ![image](https://user-images.githubusercontent.com/53219217/116340802-fa278c80-a809-11eb-98f6-5a4448097c62.png)
 
-Packages are using
-flutter_launcher_icons: ^0.8.1
-google_fonts: ^1.1.1
-supercharged: ^1.10.0
+Packages are using: 
+
+  flutter_launcher_icons: ^0.8.1
+  
+  google_fonts: ^1.1.1
+  
+  supercharged: ^1.10.0
+
 
 ## Getting Started
 
